@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("0:1", "", "Muestrar_iniciar sesion.html", "EARoot/EA1.htm", "188.png", "20", "0", "", "Custom diagram0","{A4D6053D-B0DF-4783-8A3D-E7E93E94C75A}");
-tocTab[tocTab.length] = new Array("0:2", "", "SMS_Alerta de confirmacion-Cliente.html", "EARoot/EA3.htm", "188.png", "21", "0", "", "Custom diagram0","{86506490-25CE-45fb-BC2F-64D3E8DC739F}");
-tocTab[tocTab.length] = new Array("0:3", "", "Alta_cliente_redes-sociales.html", "EARoot/EA5.htm", "188.png", "16", "0", "", "Custom diagram0","{F81FD6A0-912D-4f2b-B1EE-C1400F26F303}");
+tocTab[tocTab.length] = new Array("1.1.1.1:1", "", "Muestrar_iniciar sesion.html", "EARoot/EA1/EA1/EA1/EA1/EA24.htm", "188.png", "20", "0", "", "Custom diagram0","{A4D6053D-B0DF-4783-8A3D-E7E93E94C75A}");
+tocTab[tocTab.length] = new Array("1.1.1.1:2", "", "SMS_Alerta de confirmacion-Cliente.html", "EARoot/EA1/EA1/EA1/EA1/EA26.htm", "188.png", "21", "0", "", "Custom diagram0","{86506490-25CE-45fb-BC2F-64D3E8DC739F}");
+tocTab[tocTab.length] = new Array("1.1.1.1:3", "", "Alta_cliente_redes-sociales.html", "EARoot/EA1/EA1/EA1/EA1/EA28.htm", "188.png", "16", "0", "", "Custom diagram0","{F81FD6A0-912D-4f2b-B1EE-C1400F26F303}");

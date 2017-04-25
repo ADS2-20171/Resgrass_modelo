@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.1.1.6:1", "", "Caracteristicas de Campos Depostivos.html", "EARoot/EA1/EA1/EA1/EA6/EA72.htm", "188.png", "9", "0", "", "Custom diagram0","{D52B5B2D-5319-4818-A762-5352696286D7}");
+tocTab[tocTab.length] = new Array("1.1.1.6:2", "", "Precios y Canchas.html", "EARoot/EA1/EA1/EA1/EA6/EA74.htm", "188.png", "7", "0", "", "Custom diagram0","{077A4223-9DD7-4322-87F0-7B31E4A59C16}");
+tocTab[tocTab.length] = new Array("1.1.1.6:3", "", "Reserva.html", "EARoot/EA1/EA1/EA1/EA6/EA76.htm", "188.png", "8", "0", "", "Custom diagram0","{5A3F4CCD-F258-4e60-9F13-59707EDEBC36}");

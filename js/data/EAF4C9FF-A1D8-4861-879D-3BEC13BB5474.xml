@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("1.1.1:1", "", "apps", "EARoot/EA1/EA1/EA1/EA15.htm", "188.png", "5", "0", "", "Custom diagram0","{4C88ACBD-0354-4398-949B-2975629E15BD}");
+tocTab[tocTab.length] = new Array("1.1.1.1", "1", "Alta de Clientes", "EARoot/EA1/EA1/EA1/EA17.htm", "4.png", "", "", "{36608939-5B69-4773-89D3-68A8A9C97380}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.2", "1", "Caja", "EARoot/EA1/EA1/EA1/EA18.htm", "4.png", "", "", "{456C317D-C74B-48de-846D-0D6DBE2C4877}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.3", "1", "Confirmacion y pagos", "EARoot/EA1/EA1/EA1/EA19.htm", "4.png", "", "", "{F4A7E587-E78A-4d1b-8D31-398C903AE6DF}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.4", "1", "Crear, Modificar, Eliminar Campo deportivo", "EARoot/EA1/EA1/EA1/EA20.htm", "4.png", "", "", "{0727DF66-7CD4-40d6-8198-436F47506D34}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.5", "1", "Facturacion", "EARoot/EA1/EA1/EA1/EA21.htm", "4.png", "", "", "{4CCD03F2-3919-44df-B2D3-ACBB25E4DFD7}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.6", "1", "Gestion Catalogo", "EARoot/EA1/EA1/EA1/EA22.htm", "4.png", "", "", "{2D1EB1AA-4B57-482d-908B-250950B29F85}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.7", "1", "Reservar cancha", "EARoot/EA1/EA1/EA1/EA23.htm", "4.png", "", "", "{A3135DB6-0CB2-4f4a-972B-42E24A3F59A4}", "Package");

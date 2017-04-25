@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.1.1.5:1", "", "Gestion_Factura-Administrador.html", "EARoot/EA1/EA1/EA1/EA5/EA63.htm", "188.png", "19", "0", "", "Custom diagram0","{ABE8CE2A-DF36-4321-8111-3B3CEE8AC3AB}");
+tocTab[tocTab.length] = new Array("1.1.1.5:2", "", "Registro-Reserva_factura-Cliente.html", "EARoot/EA1/EA1/EA1/EA5/EA65.htm", "188.png", "15", "0", "", "Custom diagram0","{8AFADE83-D0B8-46ca-AA5F-C60A7D450412}");
+tocTab[tocTab.length] = new Array("1.1.1.5:3", "", "ReporteFactura-Gmail-Cliente.html", "EARoot/EA1/EA1/EA1/EA5/EA67.htm", "188.png", "14", "0", "", "Custom diagram0","{DCFA9AFD-8B0F-405c-8B09-F1232AC364F9}");
